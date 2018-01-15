@@ -22,16 +22,6 @@ Readings (To be done before class):  Create a GitHub account. We will be using G
     </item>
     
     <item>
-      <title>Week 1</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</guid>
-      <description>Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.
-Readings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps).</description>
-    </item>
-    
-    <item>
       <title>Class 2</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,18 +37,6 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-fa17/contact/</guid>
-      <description>Jason Kuruzovich (Instructor)
- Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian (Dorothy) Jiang (Teaching Assistant)
- Slack (preferred) Email: Jiangl4 - at - rpi.edu Office Location: 2226 Pittsburgh  Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.
-I&amp;rsquo;d prefer that you address other messages to me also through Slack (rather than email).</description>
-    </item>
-    
-    <item>
-      <title>Contact Info</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/contact/</guid>
       <description>Jason Kuruzovich (Instructor)
  Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian (Dorothy) Jiang (Teaching Assistant)
  Slack (preferred) Email: Jiangl4 - at - rpi.edu Office Location: 2226 Pittsburgh  Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.
@@ -117,16 +95,6 @@ This class doesn&amp;rsquo;t have an official lab section because of graduate st
     </item>
     
     <item>
-      <title>Office/Lab Hours</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/office/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/office/</guid>
-      <description>Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
-This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
-    </item>
-    
-    <item>
       <title>Class 5</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -176,15 +144,6 @@ Assignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 min
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-fa17/grading/</guid>
-      <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    </description>
-    </item>
-    
-    <item>
-      <title>Grading</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/grading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/grading/</guid>
       <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    </description>
     </item>
     
@@ -262,16 +221,6 @@ https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&
     </item>
     
     <item>
-      <title>Assignments</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/</guid>
-      <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
-https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&amp;gt;  Homework Assignments from one class will be due the following Wednesday by 11:59 PM.</description>
-    </item>
-    
-    <item>
       <title>Class 10</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -333,16 +282,6 @@ Project Selection There are a tremendous number of potential Kaggle projects ava
     </item>
     
     <item>
-      <title>Project 1</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/project1/</guid>
-      <description>Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
-Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
-    </item>
-    
-    <item>
       <title>Class 13</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -359,15 +298,6 @@ In Class Activities Presentation</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-fa17/project2/</guid>
-      <description>Project 2 is Due 12-14 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.</description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>http://archive.analyticsdojo.com/mgmt6560-sp18/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/project2/</guid>
       <description>Project 2 is Due 12-14 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.</description>
     </item>
     
@@ -436,26 +366,6 @@ This proposal suggests creating an instance of the Data 8 class @ Rensselaer. Al
       
       <guid>http://archive.analyticsdojo.com/_header/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://archive.analyticsdojo.com/mgmt6790-sp18/class-tuesday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6790-sp18/class-tuesday/</guid>
-      <description>All,</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://archive.analyticsdojo.com/mgmt6790-sp18/overview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archive.analyticsdojo.com/mgmt6790-sp18/overview/</guid>
-      <description>Grading Requirements Overview The capstone is a group project class, which can make grading difficult.
-The following grading criteria are designed to help you succeed in the capstone.
-Project Management Proposal Each project must start with a proposal which will serve as a plan and contract. Your proposal should describe a set of well defined milestones with planned dates of completion. Details on milestone requirements are described in the Milestones and Issues section.</description>
     </item>
     
     <item>

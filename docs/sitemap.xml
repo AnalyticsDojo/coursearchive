@@ -7,15 +7,7 @@
   </url>
   
   <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</loc>
-  </url>
-  
-  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/</loc>
-  </url>
-  
-  <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/</loc>
   </url>
   
   <url>
@@ -28,10 +20,6 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/contact/</loc>
   </url>
   
   <url>
@@ -59,10 +47,6 @@
   </url>
   
   <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/office/</loc>
-  </url>
-  
-  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class5/</loc>
   </url>
   
@@ -75,10 +59,6 @@
   </url>
   
   <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/schedule/</loc>
-  </url>
-  
-  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class6/</loc>
   </url>
   
@@ -88,10 +68,6 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/grading/</loc>
-  </url>
-  
-  <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/grading/</loc>
   </url>
   
   <url>
@@ -119,10 +95,6 @@
   </url>
   
   <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/</loc>
-  </url>
-  
-  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class10/</loc>
   </url>
   
@@ -143,19 +115,11 @@
   </url>
   
   <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/project1/</loc>
-  </url>
-  
-  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class13/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/project2/</loc>
   </url>
   
   <url>
@@ -188,24 +152,11 @@
   </url>
   
   <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6790-sp18/class-tuesday/</loc>
-  </url>
-  
-  <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6790-sp18/overview/</loc>
-  </url>
-  
-  <url>
     <loc>http://archive.analyticsdojo.com/proposals/self-driving-rc/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://archive.analyticsdojo.com/mgmt6790-sp18/</loc>
     <priority>0</priority>
   </url>
   
