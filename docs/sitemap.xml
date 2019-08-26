@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class1/</loc>
   </url>
   
@@ -23,11 +27,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session1/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</loc>
   </url>
   
   <url>
@@ -40,6 +52,10 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/</loc>
   </url>
   
   <url>
@@ -63,6 +79,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/contact/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/setup/git/</loc>
   </url>
   
@@ -79,6 +99,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session2/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/resources/</loc>
   </url>
   
@@ -88,6 +112,10 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/</loc>
   </url>
   
   <url>
@@ -103,11 +131,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session3/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment4/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment4/</loc>
   </url>
   
   <url>
@@ -127,6 +163,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/office/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session4/</loc>
   </url>
   
@@ -135,11 +175,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session4/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment5/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/</loc>
   </url>
   
   <url>
@@ -163,11 +211,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session5/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session5/</loc>
   </url>
   
   <url>
@@ -183,11 +239,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/</loc>
   </url>
   
   <url>
@@ -211,6 +275,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/grading/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session6/</loc>
   </url>
   
@@ -219,11 +287,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session6/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment7/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/</loc>
   </url>
   
   <url>
@@ -239,6 +315,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session7/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment8/</loc>
   </url>
   
@@ -248,6 +328,14 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/midterm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/midterm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment_project/</loc>
   </url>
   
   <url>
@@ -263,6 +351,14 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session8/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment8/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class9/</loc>
   </url>
   
@@ -275,7 +371,15 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session9/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/setup/anaconda/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment9/</loc>
   </url>
   
   <url>
@@ -303,6 +407,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session10/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class11/</loc>
   </url>
   
@@ -312,6 +420,10 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session11/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session11/</loc>
   </url>
   
   <url>
@@ -327,6 +439,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/project1/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/project1/</loc>
   </url>
   
@@ -336,6 +452,10 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session12/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session12/</loc>
   </url>
   
   <url>
@@ -355,6 +475,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session13/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class14/</loc>
   </url>
   
@@ -367,7 +491,15 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session14/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/final/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session15/</loc>
   </url>
   
   <url>
@@ -387,7 +519,15 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session16/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session17/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session17/</loc>
   </url>
   
   <url>
@@ -399,11 +539,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session18/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session19/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session19/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session19/</loc>
   </url>
   
   <url>
@@ -423,6 +571,10 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session20/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/proposals/winterbreak/</loc>
   </url>
   
@@ -435,11 +587,19 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session21/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session22/</loc>
   </url>
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session22/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</loc>
   </url>
   
   <url>
@@ -451,7 +611,15 @@
   </url>
   
   <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session23/</loc>
+  </url>
+  
+  <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session24/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session24/</loc>
   </url>
   
   <url>
@@ -460,6 +628,10 @@
   
   <url>
     <loc>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session26/</loc>
+  </url>
+  
+  <url>
+    <loc>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</loc>
   </url>
   
   <url>

@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Assignment 1</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/</guid>
+      <description>Assignment:     Topic   Link      Homework 1     Grading: Grading will be done via LMS. Please upload a PDF of the completed assignment.</description>
+    </item>
+    
+    <item>
       <title>Class 1</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,6 +69,16 @@ In Class Activities:  For presentation, see Dropbox. Create a Github account. En
     </item>
     
     <item>
+      <title>Session 1</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</guid>
+      <description>Course Overview &amp;amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used.
+Before Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone. Download the Github Desktop app. Download Anaconda with Python 3.7. Sign up for Google Colab  I prefer to use Slack for class.</description>
+    </item>
+    
+    <item>
       <title>Assignment 2</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -77,6 +96,15 @@ Don’t worry about the autograding tests. As a result, you won’t have to inst
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment2/</guid>
       <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+    </item>
+    
+    <item>
+      <title>Assignment 2</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/</guid>
+      <description>Assignment:     Topic   Link      Assignment 2     Grading: Grading will be done via LMS. Please upload a PDF of the completed assignment.</description>
     </item>
     
     <item>
@@ -126,6 +154,18 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
     </item>
     
     <item>
+      <title>Contact Info</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/contact/</guid>
+      <description>Jason Kuruzovich (Instructor)
+ Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian (Dorothy) Jiang (Teaching Assistant)
+ Slack (preferred) Email: Jiangl4 - at - rpi.edu Office Location: 2226 Pittsburgh  Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.
+I&amp;rsquo;d prefer that you address other messages to me also through Slack (rather than email).</description>
+    </item>
+    
+    <item>
       <title>Git/GitHub</title>
       <link>http://archive.analyticsdojo.com/setup/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -168,6 +208,16 @@ Readings (To be done before class):  Additional Suggested Reading: Chapter 1 fro
     </item>
     
     <item>
+      <title>Session 2</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session2/</guid>
+      <description> Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
+Readings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library). Command Line Cheat Sheet Assignment Process Running Jupyter locally  In Class Activities:  Running code, Data and Packages      Topic   Link      Python Overview    Basic Data Structures    Numpy    Pandas    Lab    Homework 1     </description>
+    </item>
+    
+    <item>
       <title>Assignment 3</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -183,6 +233,15 @@ Readings (To be done before class):  Additional Suggested Reading: Chapter 1 fro
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment3/</guid>
       <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+    </item>
+    
+    <item>
+      <title>Assignment 3</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/</guid>
+      <description>Assignment:     Topic   Link      Assignment 3     Grading: Grading will be done via LMS. Please upload a PDF of the completed assignment.</description>
     </item>
     
     <item>
@@ -216,6 +275,16 @@ Readings (To be done before class):  Chapters 1-3 from Principles of Data Wrangl
     </item>
     
     <item>
+      <title>Session 3</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session3/</guid>
+      <description> Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python.
+Readings (To be done before class):  Chapters 1-3 from Principles of Data Wrangling Get started with HM1, LAB1  In Class Activities:  See Dropbox for presentation.  </description>
+    </item>
+    
+    <item>
       <title>Assignment 4</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -231,6 +300,17 @@ Readings (To be done before class):  Chapters 1-3 from Principles of Data Wrangl
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment4/</guid>
       <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+    </item>
+    
+    <item>
+      <title>Assignment 4</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment4/</guid>
+      <description>Assignment You can copy and paste this and your visualizations into a word document. This assignment should be turned into the LMS as a PDF.
+Getting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.
+The first part of any data visualization project is data understanding.</description>
     </item>
     
     <item>
@@ -278,6 +358,17 @@ This class doesn&amp;rsquo;t have an official lab section because of graduate st
     </item>
     
     <item>
+      <title>Office/Lab Hours</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/office/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/office/</guid>
+      <description>Jason Kuruzovich
+ Office/Lab Hours: Monday 3:00 - 5:00 and by appointment  Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge or Severino Center, both in Pittsburgh for the majority of the time.   Lianlian (Dorothy) Jiang (grader)
+ Office/Lab Hours: Monday 11:00 AM - 1:00 PM by appointment  Office/Lab Location: 2128 Pittsburgh.   *Please see Dorothy primarily for issues related to grading. She is traveling a good bit this semester on job market so please make an appointment to confirm she is in the building.</description>
+    </item>
+    
+    <item>
       <title>Session 4</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -298,6 +389,16 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
     </item>
     
     <item>
+      <title>Session 4</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session4/</guid>
+      <description> Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.
+Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  In Class Activities:  See the Tech Fundamentals class materials repository. Be sure to download updates by using the sync or pull buttons on GitHub Desktop.      Topic   Link      Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2     </description>
+    </item>
+    
+    <item>
       <title>Assignment 5</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -313,6 +414,15 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment5/</guid>
       <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+    </item>
+    
+    <item>
+      <title>Assignment 5</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/</guid>
+      <description> Assignment:     Topic   Link      HM5A Visualization &amp;amp; Screen Scraping    HM5B Intro Modeling     </description>
     </item>
     
     <item>
@@ -356,6 +466,16 @@ In Class Activities:  See Dropbox for Presentations Introduction to Kaggle With 
     </item>
     
     <item>
+      <title>Session 5</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session5/</guid>
+      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
+Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  </description>
+    </item>
+    
+    <item>
       <title>Assignment 6</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -375,6 +495,15 @@ The first part of any data visualization project is data understanding. Start wi
       <description>Assignment This assignment should be turned into the LMS as a PDF.
 Getting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.
 The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 6</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/</guid>
+      <description>Assignment:  This is the link to launch the R homework.   Click Here Alternate Zip</description>
     </item>
     
     <item>
@@ -429,6 +558,15 @@ Assignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 min
     </item>
     
     <item>
+      <title>Grading</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/grading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/grading/</guid>
+      <description>   Component Weight     Homeworks and Labs 25%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 25%   Final Exam 25%    </description>
+    </item>
+    
+    <item>
       <title>Session 6</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -449,6 +587,16 @@ Readings (To be done before class):  Pandas Intro to Data Structures (series and
     </item>
     
     <item>
+      <title>Session 6</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session6/</guid>
+      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
+Readings (To be done before class):  Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  See Dropbox for Presentations      Topic   Link      Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3     </description>
+    </item>
+    
+    <item>
       <title>Assignment 7</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/assignments/assignment7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -464,6 +612,16 @@ Readings (To be done before class):  Pandas Intro to Data Structures (series and
       
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/assignments/assignment7/</guid>
       <description>Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  LINK TO FILES: If you are having trouble, give these a shot. FILES</description>
+    </item>
+    
+    <item>
+      <title>Assignment 7</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/</guid>
+      <description>Assignment: This should be completed using Apache Spark Community Addition.
+Create a DataBricks Community Edition Account Login to Community Edition Account 03-spark-questions.ipynb (Due 4&amp;frasl;4 11:59 PM) https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb</description>
     </item>
     
     <item>
@@ -494,6 +652,16 @@ Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Da
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session7/</guid>
       <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
 Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox for Presentations. See materials repository for notebooks.  </description>
+    </item>
+    
+    <item>
+      <title>Session 7</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session7/</guid>
+      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
+Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox.  </description>
     </item>
     
     <item>
@@ -528,6 +696,27 @@ If you feel one of your solutions will work but was marked off, you can do the f
  Take a picture of the question and solution.
  Press the button to start the appeal. Start the Appeal   Test if the solution works.
  If it does, add a markdown cell with the original picture and commit/push the example.</description>
+    </item>
+    
+    <item>
+      <title>Midterm Review</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/midterm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/midterm/</guid>
+      <description>Midterm The goal for the midterm is to spend some time reviewing some of the basic processes that we have utilized thus far. Basic concepts, syntax, and processes which will be useful in data science projects.
+The midterm will consist of 2 sections.
+Part 1: Multiple Choice/Short answer The first section will be closed book/closed notes. You should understand conceptual issues with the class, technologies, packages, CRISP model, etc. If given a piece of code, you should be able to interpret what it does.</description>
+    </item>
+    
+    <item>
+      <title>Project draft</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment_project/</guid>
+      <description>Assignment: Project Draft (Sections 1-3) Due 03/21 11:59 PM
+See the project details for more information.</description>
     </item>
     
     <item>
@@ -568,6 +757,26 @@ Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Da
     </item>
     
     <item>
+      <title>Session 8</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session8/</guid>
+      <description>Intro to Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
+Assignment (To be done before class):  Install Tableau Free for university students. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale&amp;rsquo;s &amp;lsquo;Coxcombs&amp;rsquo; Napolean&amp;rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O&amp;rsquo;Gram  Uncovering Patterns  The Dude Map</description>
+    </item>
+    
+    <item>
+      <title>Assignment 8</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment8/</guid>
+      <description>Assignment: This should be completed using Apache Spark Community Addition.
+Create a DataBricks Community Edition Account Login to Community Edition Account 03-spark-questions.ipynb (Due 4&amp;frasl;4 11:59 PM) https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb</description>
+    </item>
+    
+    <item>
       <title>Class 9</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -603,6 +812,19 @@ In Class Activities:  Install r-essentials from conda conda install -y r-essenti
     </item>
     
     <item>
+      <title>Session 9</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session9/</guid>
+      <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
+Readings (To be done before class): (1) Cross Validation
+(2) The 10 Algorithms Machine Learning Engineers Need to Know.
+(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
+(5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
+    </item>
+    
+    <item>
       <title>Anaconda</title>
       <link>http://archive.analyticsdojo.com/setup/anaconda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -612,6 +834,16 @@ In Class Activities:  Install r-essentials from conda conda install -y r-essenti
 Follow the following instructions to install Anaconda from Continuum Analytics. OSX Windows Linux
 Once you have the Anaconda Distribution, follow below for advanced configuration.
 OSX  Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Windows Windows may often have issues associated with installation if you have had previous versions of Anaconda installed.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 9</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/assignments/assignment9/</guid>
+      <description>Assignment: Please upload your final notebook. All work should be yours. This is an individual assignment.
+Use the excel notebooks in this directory. https://www.dropbox.com/sh/znfag1qic4djyod/AADrfv3E2e705r8nruDlQXTka?dl=0</description>
     </item>
     
     <item>
@@ -685,6 +917,19 @@ Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) Fro
     </item>
     
     <item>
+      <title>Session 10</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session10/</guid>
+      <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
+Readings (To be done before class): (1) Cross Validation
+(2) The 10 Algorithms Machine Learning Engineers Need to Know.
+(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
+(5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
+    </item>
+    
+    <item>
       <title>Class 11</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -713,6 +958,16 @@ Assignment (To be done before class):  Install Tableau Free for university stude
       <description>Guest Speakers and Project Work Session Class Objective: Here we will have a guest speaker from the Capstone class.
 Craig Debono is a 2017 Graduate of the MS Business Analytics program. He worked on a Capstone project with Defacto Global, and he is now working on the other side client for this year&amp;rsquo;s capstone class on behalf of Defacto.
 There may be a few other speakers from the class. 1:15 Emily Pirie</description>
+    </item>
+    
+    <item>
+      <title>Session 11</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session11/</guid>
+      <description>Data Fundamentals and Introduction to Python (continued) Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+Readings (To be done before class): R for Data Science Chapters 1-3 Prior to class, please create an account on RStudio Cloud.</description>
     </item>
     
     <item>
@@ -754,6 +1009,18 @@ Project Selection There are a tremendous number of potential Kaggle projects ava
     </item>
     
     <item>
+      <title>Project</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/project1/</guid>
+      <description>Final Project 04/29 Final Project Due (11:59 PM)
+Project Selection This is a summary from the in class exercise.
+Project Exercise
+This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.</description>
+    </item>
+    
+    <item>
       <title>Project 1</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -784,6 +1051,16 @@ Readings (To be done before class): (1) Cross Validation
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session12/</guid>
       <description>Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
 Assignment (To be done before class):  Install Tableau Free for university students. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale&amp;rsquo;s &amp;lsquo;Coxcombs&amp;rsquo; Napolean&amp;rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O&amp;rsquo;Gram  Uncovering Patterns  The Dude Map</description>
+    </item>
+    
+    <item>
+      <title>Session 12</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session12/</guid>
+      <description>R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames. (4) Install RStudio via the Anaconda Navigator.</description>
     </item>
     
     <item>
@@ -827,6 +1104,19 @@ Assignment (To be done before class):  Install Tableau Free for university stude
     </item>
     
     <item>
+      <title>Session 13</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session13/</guid>
+      <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
+Readings (To be done before class): (1) Cross Validation
+(2) The 10 Algorithms Machine Learning Engineers Need to Know.
+(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
+(5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
+    </item>
+    
+    <item>
       <title>Class 14</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/class14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -860,6 +1150,15 @@ Readings (To be done before class): (1) Cross Validation
     </item>
     
     <item>
+      <title>Session 14 (midterm)</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session14/</guid>
+      <description>Midterm The goal for the midterm is to spend some time reviewing some of the basic processes that we have utilized thus far. Basic concepts, syntax, and processes which will be useful in data science projects.</description>
+    </item>
+    
+    <item>
       <title>Final</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa17/schedule/final/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -870,6 +1169,17 @@ Part 1 The first part is a take-home assignment which is due the same night as t
 Homework 8/Final Part 1 (Available 12-8; Due 12-18 11:59 PM).
 Accept the Assignment  Part 2 The second part will be given DCC 337 12-18 6:30-9:30, as required in the finals schedule.
 This will be a multiple choice exam covering conceptual issues from the class &amp;amp; homeworks.</description>
+    </item>
+    
+    <item>
+      <title>Session 15</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session15/</guid>
+      <description> Project Work Day Class Objective: The goal of this is to do some active work on the project.
+Please fill out this form on the Kaggle Challenge you Selected. https://goo.gl/forms/G7RlD5UGseMbPAlN2
+    Topic   Link      Ridge and Lasso Regression    PCA     </description>
     </item>
     
     <item>
@@ -917,6 +1227,16 @@ Readings (To be done before class): (1) Cross Validation
     </item>
     
     <item>
+      <title>Session 16</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session16/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  In Classes     Topic   Link      Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment     </description>
+    </item>
+    
+    <item>
       <title>Session 17</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -927,6 +1247,16 @@ Readings (To be done before class): (1) Cross Validation
 (2) The 10 Algorithms Machine Learning Engineers Need to Know.
 (3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
 (5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
+    </item>
+    
+    <item>
+      <title>Session 17</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session17/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  In Classes     Topic   Link      Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment     </description>
     </item>
     
     <item>
@@ -950,6 +1280,17 @@ Readings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Se
     </item>
     
     <item>
+      <title>Session 18</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session18/</guid>
+      <description> Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
+Readings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies
+In Class     Topic   Link      Time Series Intro    Forcasting Rossman         </description>
+    </item>
+    
+    <item>
       <title>Session 19</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -967,6 +1308,17 @@ Readings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Se
       <guid>http://archive.analyticsdojo.com/mgmt6560-sp18/sessions/session19/</guid>
       <description>Introduction to Modeling II Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
 Readings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret</description>
+    </item>
+    
+    <item>
+      <title>Session 19</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session19/</guid>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
+In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
     </item>
     
     <item>
@@ -1014,6 +1366,17 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
     </item>
     
     <item>
+      <title>Session 20</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session20/</guid>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
+In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
+    </item>
+    
+    <item>
       <title>Winter Break Projects</title>
       <link>http://archive.analyticsdojo.com/proposals/winterbreak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1044,6 +1407,17 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
     </item>
     
     <item>
+      <title>Session 21</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session21/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)
+In Class Exercises Deep learning exercises on Dropbox.</description>
+    </item>
+    
+    <item>
       <title>Session 22</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1063,6 +1437,17 @@ In Class Exercises Deep learning exercises on Dropbox.</description>
       <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
 Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
 In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
+    </item>
+    
+    <item>
+      <title>Session 22</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)
+In Class Exercises Deep learning exercises on Dropbox.</description>
     </item>
     
     <item>
@@ -1092,6 +1477,17 @@ Readings (To be done before class): You can do Deep Learning Neural Networks - T
     </item>
     
     <item>
+      <title>Session 23</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session23/</guid>
+      <description> Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
+Readings (To be done before class): In Class Exercises Deep learning exercises on Dropbox.
+In Class     Topic   Link      Revisiting IRIS with PyTorch    Revisiting Boston Housing with Pytorch    Revisiting Titanic with Pytorch     </description>
+    </item>
+    
+    <item>
       <title>Session 24</title>
       <link>http://archive.analyticsdojo.com/mgmt6560-fa18/sessions/session24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1101,6 +1497,17 @@ Readings (To be done before class): You can do Deep Learning Neural Networks - T
 Readings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Backpropagation in 5 Minutes
 In Class: Revisiting IRIS with PyTorch 
 Revisiting Boston Housing with Pytorch</description>
+    </item>
+    
+    <item>
+      <title>Session 24</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/session24/</guid>
+      <description> Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
+Readings (To be done before class): In Class Exercises Deep learning exercises on Dropbox.
+In Class     Topic   Link      Revisiting Titanic with Ludwig    Revisiting Titanic with FastAI    FastAI - Tabular    FastAI - Pets    AutoML with TPOT     </description>
     </item>
     
     <item>
@@ -1123,6 +1530,15 @@ Readings (To be done before class): Time Series with Siraj
 In Class: Time Series 
 Time Series 2 
 Revisiting Titanic with FastAI</description>
+    </item>
+    
+    <item>
+      <title>All Notebooks</title>
+      <link>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archive.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</guid>
+      <description>Topic   Link      What is Jupyter?    Notebook Basics    Running Code    Markdown    More on Colab    Python Overview    Basic Data Structures    Numpy    Pandas    Lab    Homework 1    Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2    Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3    The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC Support Vector Machines    Visualization &amp;amp; Screen Scraping Homework    Intro Modeling Homework    Matrix Regression    Regression Basics    Ridge and Lasso Regression    Principal Component Analysis    Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment    Time Series Intro    Forcasting Rossman    Neural Networks Quick Overview    Tensor Tutorial    Convolutional Neural Network Tutorial    Pytorch MNIST    Introduction to Tensorflow    Convolutional Neural Network Tutorial    Revisiting IRIS with PyTorch    Revisiting Boston Housing with Pytorch    Revisiting Titanic with Pytorch    Revisiting Titanic with Ludwig    Revisiting Titanic with FastAI    FastAI - Tabular    FastAI - Pets    AutoML with TPOT         Topic   Link      Intro to Map Reduce - Run on DataBricks:</description>
     </item>
     
     <item>
